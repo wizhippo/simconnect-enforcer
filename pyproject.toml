@@ -1,0 +1,16 @@
+[project]
+name = "simconnect-enforcer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "hidapi>=0.14.0.post4",
+    "numpy>=2.2.5",
+    "pysdl2>=0.9.17",
+    "pysdl2-dll>=2.32.0",
+    "pyserial>=3.5",
+    "pyside6>=6.9.0",
+    "scipy>=1.15.2",
+    "simconnect>=0.4.26",
+]
