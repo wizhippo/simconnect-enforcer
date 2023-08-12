@@ -1,0 +1,6 @@
+pyside6~=6.5.2
+hidapi
+pyserial~=3.5
+SimConnect
+pysdl2
+pysdl2-dll
